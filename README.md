@@ -1,4 +1,4 @@
-# ZerodhaThis project is a clone of the popular trading platform Zerodha, designed to replicate its clean UI and basic features. The goal of this project is to understand real-world frontend development and improve skills in building responsive and user-friendly web applications.
+# Zerodha
 
 The application includes features like a modern dashboard interface, stock listings UI, and smooth navigation similar to the original platform. It focuses on delivering a seamless user experience with well-structured components and responsive design.
 
